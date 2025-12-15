@@ -1,13 +1,17 @@
 ---
 title: Papers
 
-preprints:
+year2025:
+
+  - title: "Scikit-bio: a fundamental Python library for biological omic data analysis"
+    url: https://www.nature.com/articles/s41592-025-02981-z
+    subtitle: <b>Aton M</b>, McDonald D, Cañardo Alastuey J, <b>Azom R</b>, <b>Batra P</b>, Bezshapkin V, Bolyen E, Cagle A, Caporaso JG, Debelius JW, Gorlick K, <b>Hamsanipally N</b>, Hunger L, <b>Keluskar A</b>, Liao D, Lu YY, Navas-Molina JA, Pitman A, Rideout JR, <b>Sazonov A</b>, Sathappan B, Schwarzberg Lipson K, Sfiligoi I, <b>Tapo C</b>, Vázquez-Baeza Y, <b>Wu Z</b>, Xu ZZ, Ye MS, Zhao J, Knight R, Morton JT, <b>Zhu Q</b>
+    kicker: Nature Methods
 
   - title: Augmenting microbial phylogenomic signal with tailored marker gene sets
-    url: https://www.biorxiv.org/content/10.1101/2025.03.13.643052v1
+    url: https://www.nature.com/articles/s41467-025-64881-2
     subtitle: <b>Secaira-Morocho H</b>, Jiang X, <b>Zhu Q</b>
-
-year2025:
+    kicker: Nature Communications
 
   - title: "CaDAVEr: a metagenome-assembled genome catalog of microbial decomposers across vertebrate environments"
     url: https://journals.asm.org/doi/10.1128/mra.01323-24
@@ -493,12 +497,6 @@ book-chapters:
 ---
 
 Find our papers at <i class='ai ai-google-scholar ai-lg'></i> [Google Scholar](https://scholar.google.com/citations?user=mjkV0pUAAAAJ) or <i class='ai ai-pubmed ai-lg'></i> [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Qiyun+Zhu[Author]).
-
-## Preprints
-
-<div class="paper-list">
-  {% include feature_row id="preprints" %}
-</div>
 
 ## 2025
 
